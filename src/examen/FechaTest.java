@@ -3,7 +3,7 @@ package examen;
 public class FechaTest {
 	
 public void test() {
-	assertFalse.FechaT(dia=-1);
+	assertFalse.FechaTest(dia=-1);
 }
 public void test1() {
 	assertFalse.FechaTest(mes=-4);
